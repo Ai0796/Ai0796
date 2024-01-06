@@ -1,4 +1,4 @@
-Heya I'm Ai0 (or Ai0796 because that username was already taken)
+Heya I'm Ai0
 
 I'm a college student studying data science while being a self-taught computer scientist
 
