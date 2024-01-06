@@ -9,6 +9,7 @@ I'm a college student studying data science while being a self-taught computer s
 My favorite project are
 - [BDSP Randomizer](https://github.com/Ai0796/BDSP-Randomizers)
 - [GhostNene](https://github.com/Ai0796/RoboNene)
+- [An-Chan](https://github.com/Ai0796/An-Chan)
 
 <!--
 **Ai0796/Ai0796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
