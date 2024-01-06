@@ -6,11 +6,9 @@ I'm a college student studying data science while being a self-taught computer s
 - 📈 I'm currently working on learning Machine Learning to do NLP with Clinical Records and predictions with Game data
 - 🌱 I’m currently learning R, C, Java, and Machine Learning with PyTorch
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ai0796&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ai0796&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-
+My favorite project are
+- [BDSP Randomizer](https://github.com/Ai0796/BDSP-Randomizers)
+- [GhostNene](https://github.com/Ai0796/RoboNene)
 
 <!--
 **Ai0796/Ai0796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
